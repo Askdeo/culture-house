@@ -1,0 +1,19 @@
+.ArrowDown {
+    width: 35px;
+    height: 35px;
+}
+.ButtonContainer{
+    position: relative;
+    top: 50px;
+}
+
+.ButtonContainer button{
+    border-radius: 4px;
+    outline: none;
+}
+
+
+.ButtonContainer button :hover{
+    border: 2px solid blue;
+    border-radius: 3px;
+}

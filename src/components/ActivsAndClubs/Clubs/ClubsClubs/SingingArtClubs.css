@@ -1,0 +1,27 @@
+.SingingArtClubs{
+    width: 100%;
+    height: 100%;
+    background: url('../../../../assets/images/Activities/Clubs.jpg') no-repeat center/cover;
+}
+
+.SingingArtClubsContainer {
+    width: 100%;
+    height: 300px;
+}
+.SingingArtClubsPics{
+    width: 49.9%;
+    height: 100%;
+    display: inline-block;
+}
+
+
+.SingingArtClubsDescription{
+    width: 49.9%;
+    height: 100%;
+    display: inline-block;
+    background-color:  rgba(239, 247, 255, 0.582);
+}
+
+.SingingArtClubsTitle{
+    position: absolute;
+}

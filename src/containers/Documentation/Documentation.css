@@ -1,0 +1,23 @@
+.Documentation {
+    
+}
+
+.DocContainer {
+    display: inline-block;
+}
+.DocContainer a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: black;
+}
+
+.DocContainer ul{
+    list-style: none;
+}
+.DocContainer li{
+    background-color: rgb(238, 227, 227);
+    margin: 0.5rem 0;
+    padding: 0.3rem 0;
+    border-radius: 10px;
+}

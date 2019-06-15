@@ -1,0 +1,34 @@
+.InsteadOfSLider{
+    width: 50%;
+    height: 500px;
+}
+
+.SliderPics{
+    width: 350px;
+    height: 400px;
+    display: inline-block;
+}
+
+.Title{
+    background: rgba(175, 76, 10, 0.801);
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.Banner1{
+    background: url('../../../assets/images/Slider/banner1.jpg') center/cover;
+}
+.Banner2{
+    background: url('../../../assets/images/Slider/banner2.jpg') center/cover;
+}
+.Banner3{
+    background: url('../../../assets/images/Slider/banner3.png') center/cover;
+}
+.Banner4{
+    background: url('../../../assets/images/Slider/banner4.jpg') center/cover;
+}
+.Banner5{
+    background: url('../../../assets/images/Slider/banner5.jpg') center/cover;
+}

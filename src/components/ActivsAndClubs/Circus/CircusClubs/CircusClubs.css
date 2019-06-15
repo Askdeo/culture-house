@@ -1,0 +1,27 @@
+.CircusHeader{
+    display: flex;
+    justify-content: space-around;
+}
+
+.CircusInfo{
+    border: 2px solid black;
+    width: 45%;
+    height: 400px;
+}
+
+.CircusDirector{
+    border: 2px solid black;
+    width: 45%;
+    height: 400px;
+}
+
+.CircusTitle {
+    color: white;
+    background: rgba(175, 76, 10, 0.801);
+    border-radius: 15px;
+}
+
+.CircusPics{
+    height: 600px;
+    width: 80%;
+}

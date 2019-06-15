@@ -1,0 +1,39 @@
+.NavBar {
+    background: #90CCCB;
+    padding: 0.5rem;
+    margin: 0 1rem;
+    width: 100wv;
+    border: #E9930B solid 1px;
+    border-radius: 1rem;
+    opacity: 0.8;
+    /* box-shadow:  2px 2px 2px 2px rgba(139, 135, 135, 0.5); */
+}
+.LinksList {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0;
+   
+}
+.LinksList li {
+    list-style: none;
+    display: inline-block;
+    margin: 0.1rem 1.5rem;
+}
+
+
+.Link{
+    text-decoration: none;
+    color: white;
+    font: 1.3rem bold Verdana, Geneva, Tahoma, sans-serif; 
+    background: #90CCCB;
+    padding: 0 10px;
+    border-radius: 0.7rem;
+    margin: 0 1rem;
+}
+.Link:hover{
+    text-decoration: none;
+    color: black;
+    background: #E9930B
+    
+}

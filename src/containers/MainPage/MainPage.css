@@ -1,0 +1,59 @@
+.MainPage {
+    margin: 2rem 0;
+}
+
+.ImageContainer {
+    width: 100%;
+    height: 400px;
+    background: #90CCCB;
+    opacity: 0.8;
+}
+
+.SocialContainer{
+    display: inline-block;
+}
+.Social {
+    width: 60px;
+    height: 60px;
+}
+.SocialText {
+    color: white;
+}
+
+.EventsContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.Calendar {
+    display: inline-block;
+    position: relative;
+    bottom: 200px;
+    left: 100px;
+}
+
+.Calendar p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 2px 6px;
+}
+
+.Calendar p:hover{
+    background-color: #D79522;
+}
+
+.CalendarIcon {
+    width: 150px;
+    height: 150px;
+}
+
+.EventsHeader{
+    background:rgba(175, 76, 10, 0.801);
+    padding: 10px;
+    color: white;
+    display: inline-block;
+    border-radius: 10px;
+}

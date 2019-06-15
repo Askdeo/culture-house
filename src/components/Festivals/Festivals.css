@@ -1,0 +1,21 @@
+.FestImages{
+    width: 40%;
+    height: 100%;
+}
+.FestDescription{
+    display: inline-block;
+}
+.FestDescription h2{
+
+}
+.FestDescription h3{
+
+}
+.FestDescription p{
+    width: 50%;
+    margin: 8px auto;
+    background-color: #BB6527;
+    color: rgb(236, 236, 27);
+    font-size: 1.1rem;
+    border-radius: 10px;
+}

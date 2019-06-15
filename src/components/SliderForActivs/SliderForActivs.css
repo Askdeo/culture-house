@@ -1,0 +1,16 @@
+.ImageSliderForAcrivsContainer{
+        width: 30%;
+        height: 300px;
+}
+.ImageSliderForAcrivsContainer a{
+    text-decoration: none;
+    color: black;
+}
+.ImageSliderForAcrivsContainer a:hover{
+    color: #B86324;
+}
+
+.ImageSldierForActivs{
+    width: 100%;
+    height: 100%;
+}

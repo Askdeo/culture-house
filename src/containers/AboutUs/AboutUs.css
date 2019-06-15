@@ -1,0 +1,31 @@
+.AboutUsTextContainer{
+    display: flex;
+    background: url('../../assets/images/Building.jpg') center/cover no-repeat;
+    height: 700px;
+}   
+.PlaceHolder{
+    display: inline-block;
+    height: 500px;
+    width: 50%;
+}
+
+.AboutUsText {
+    display: inline-block;
+    height: 500px;
+    width: 50%;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+
+.AdministrationContainer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.AdministrationsPics{
+   width: 200px;
+   height: 180px; 
+}
